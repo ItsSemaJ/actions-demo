@@ -16,5 +16,5 @@ jobs:
         run: cat testmachine/output.txt
 
       - name: Show dir en listing contents
-        run: ls-alhR
+        run: ls -alhR
 
